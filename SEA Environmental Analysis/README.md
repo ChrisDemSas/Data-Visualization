@@ -1,5 +1,7 @@
 # Quick Summary
 
-The purpose of this project was to 
+The purpose of this project was to practice my Tableau skills based on a dataset, containing more than 10 million rows, collected from Kaggle. The dataset contained information about the various greenhouse gases emitted by Southeast Asian countries. The goal was to create a data visualization that tells a story of the current situation in Southeast Asia. To accomplish this, various charts were chosen to tell a story. The method was to use Pyspark to perform EDA on the data and to take advantage of distributed computing which gives it an edge over Pandas. Once this was done, a CSV file was created and the results were processed Tableau.
+
+The results shown were quite interesting and told a singular story. The line graph highlights the trend that the rate of greenhouse gas emissions is generally increasing each year and that the highest ones seem to be carbon dioxide equivalents (20y). The stacked bar chart shows that Indonesia had the highest overall gas emissions and that the highest total gas emitted was the carbon dioxide equivalents (20y), followed by carbon dioxide equivalents (100y). The least was shown to be nitrous oxide, which can barely be seen in the bar chart. In fact, the map highlights that Indonesia still emitted the highest amount of greenhouse gas throughout the years 2015-2021. Finally, the different bar charts at the right show that the largest increase is the carbon dioxide equivalents (20yrs), which agrees with the other charts. 
 
 Link to the visualization: https://public.tableau.com/app/profile/christopher.sastropranoto/viz/EnvironmentSEA/Dashboard1?publish=yes
