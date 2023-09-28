@@ -1,6 +1,6 @@
 # Introduction
 
-Hello there! You have stumbled upon my data visualization project archive, where I upload all of the data visualization projects that I have worked on. There is material ranging from academic projects to mini data visualization projects to project showcases. 
+Hello there! You have stumbled upon my data visualization project archive, where I upload all of the data visualization projects that I have worked on. There is material ranging from mini data visualization projects to project showcases. 
 
 # Mini Projects
 This section is where my mini projects for data visualization are displayed. The goal here is to learn the tools needed to perform EDA and data visualization.
